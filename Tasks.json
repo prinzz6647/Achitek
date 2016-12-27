@@ -1,0 +1,11 @@
+{
+  "kind" : "tasks#taskLists",
+  "items" : [ {
+    "kind" : "tasks#taskList",
+    "id" : "MDcxNDgzNjQ3MjY5NTg0ODUwMjQ6MDow",
+    "title" : "yuriporl May's list",
+    "updated" : "2016-12-11T16:39:56.000Z",
+    "selfLink" : "https://www.googleapis.com/tasks/v1/users/@me/lists/MDcxNDgzNjQ3MjY5NTg0ODUwMjQ6MDow",
+    "kind" : "tasks#tasks"
+  } ]
+}
